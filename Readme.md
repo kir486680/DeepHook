@@ -1,0 +1,1 @@
+The purpose of this script is to provide a convenient and efficient way to hook into PyTorch model layers during the forward pass(backward is coming), allowing you to capture or modify the inputs and outputs of specified layers. 
